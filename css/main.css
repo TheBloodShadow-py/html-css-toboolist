@@ -94,7 +94,9 @@ body {
   padding: 8px 0px;
 }
 
-.box {
+/* UTILITIES AND STICKERS */
+
+.sticker {
   display: inline;
   font-size: 10px;
   color: white;
@@ -102,8 +104,6 @@ body {
   border-radius: 8px;
   margin-left: 5px;
 }
-
-/* UTILITIES AND STICKERS */
 
 .color-green {
   color: green;
@@ -113,26 +113,26 @@ body {
   color: red;
 }
 
-.editorial-sticker {
+.bg-color-cyan {
   background-color: #45abea;
 }
 
-.q1-goals-sticker {
+.bg-color-purple {
   background-color: #9c72e4;
 }
 
-.recruiting-sticker {
+.bg-color-lightgreen {
   background-color: #64c0a9;
 }
 
-.mobile-sticker {
+.bg-color-orange {
   background-color: #f29e33;
 }
 
-.website-sticker {
+.bg-color-pink {
   background-color: #d863a1;
 }
 
-.sales-sticker {
+.bg-color-yellowgreen {
   background-color: #b0c926;
 }
