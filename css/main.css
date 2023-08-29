@@ -13,6 +13,10 @@ ol {
   font-weight: 400;
 }
 
+body {
+  background-color: #f6f8f9;
+}
+
 .header {
   padding: 5px 15px;
   background-color: white;
