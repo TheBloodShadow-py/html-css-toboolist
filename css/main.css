@@ -1,3 +1,5 @@
+/* GENERAL SETTINGS */
+
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 * {
@@ -13,9 +15,16 @@ ol {
   font-weight: 400;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 body {
   background-color: #f6f8f9;
 }
+
+/* HEADER */
 
 .header {
   padding: 5px 15px;
@@ -34,6 +43,8 @@ body {
   font-size: 35px;
   font-family: "Roboto", sans-serif;
 }
+
+/* MAIN CONTENT */
 
 .container {
   margin: 0 auto;
@@ -91,6 +102,8 @@ body {
   border-radius: 8px;
   margin-left: 5px;
 }
+
+/* UTILITIES AND STICKERS */
 
 .utility-green {
   color: green;
