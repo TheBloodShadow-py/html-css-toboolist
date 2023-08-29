@@ -78,6 +78,14 @@ ol {
   margin-left: 5px;
 }
 
+.utility-green {
+  color: green;
+}
+
+.utility-red {
+  color: red;
+}
+
 .editorial {
   background-color: #45abea;
 }
