@@ -46,6 +46,7 @@ ol {
   font-size: 12px;
   border: 0px;
   border-radius: 3px;
+  cursor: pointer;
 }
 
 .btn-type-1 {
@@ -54,11 +55,20 @@ ol {
   padding: 6px 11px;
 }
 
+.btn-type-1:hover {
+  background-color: #059bff;
+}
+
 .btn-type-2 {
   background-color: white;
   color: #ccd2d6;
   padding: 5px 10px;
   border: 1px solid #ccd2d6;
+}
+
+.btn-type-2:hover {
+  background-color: rgb(207, 207, 207);
+  color: white;
 }
 
 .main-li {
