@@ -64,33 +64,33 @@ body {
   cursor: pointer;
 }
 
-.btn-type-1 {
+.btn-add-task {
   background-color: #47adf1;
   color: white;
   padding: 6px 11px;
 }
 
-.btn-type-1:hover {
+.btn-add-task:hover {
   background-color: #059bff;
 }
 
-.btn-type-2 {
+.btn-add-section {
   background-color: white;
   color: #ccd2d6;
   padding: 5px 10px;
   border: 1px solid #ccd2d6;
 }
 
-.btn-type-2:hover {
+.btn-add-section:hover {
   background-color: rgb(207, 207, 207);
   color: white;
 }
 
-.main-li {
+.task-group {
   padding: 15px 0px;
 }
 
-.second-li {
+.task-item {
   padding: 8px 0px;
 }
 
@@ -105,34 +105,34 @@ body {
 
 /* UTILITIES AND STICKERS */
 
-.utility-green {
+.color-green {
   color: green;
 }
 
-.utility-red {
+.color-red {
   color: red;
 }
 
-.editorial {
+.editorial-sticker {
   background-color: #45abea;
 }
 
-.q1-goals {
+.q1-goals-sticker {
   background-color: #9c72e4;
 }
 
-.recruiting {
+.recruiting-sticker {
   background-color: #64c0a9;
 }
 
-.mobile {
+.mobile-sticker {
   background-color: #f29e33;
 }
 
-.website {
+.website-sticker {
   background-color: #d863a1;
 }
 
-.sales {
+.sales-sticker {
   background-color: #b0c926;
 }
